@@ -1,0 +1,5 @@
+*.txt
+default
+main
+.idea
+cmake-build-debug
